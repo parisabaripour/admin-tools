@@ -11,7 +11,7 @@
     The time zone name to be mapped to a Windows time zone name.
 
 .EXAMPLE
-    PS> .\Set-SystemTimeZone.ps1
+    PS> .\Set-SystemTimeZoneByLocation.ps1
     Fetches the geolocation data and sets the system time zone accordingly.
 
 .NOTES
