@@ -15,7 +15,7 @@
     Fetches the geolocation data and sets the system time zone accordingly.
 
 .NOTES
-    Author: Your Name
+    Author: Parisa Baripour
     Date: 2024-05-17
     Version: 1.0
 
