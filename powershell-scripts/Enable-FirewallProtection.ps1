@@ -8,7 +8,7 @@
 .PARAMETER None
 
 .EXAMPLE
-    PS> .\Set-FirewallStateToEnabled.ps1
+    PS> .\Enable-FirewallProtection.ps1
     This command runs the script to check if the firewall is enabled on all profiles and enables it if necessary.
 
 .NOTES
