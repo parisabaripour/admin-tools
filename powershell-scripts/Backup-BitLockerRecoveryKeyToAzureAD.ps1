@@ -13,7 +13,7 @@
     The time zone parameter is reserved for future use and does not affect the current script execution.
 
 .EXAMPLE
-    PS> .\BitLockerEscrowScript.ps1
+    PS> .\Backup-BitLockerRecoveryKeyToAzureAD.ps1
     This command runs the script to check if BitLocker is enabled on the system drive, retrieves the key protector ID, and escrows the BitLocker recovery key into Azure AD.
 
 .NOTES
