@@ -24,7 +24,7 @@
 #>
 
 # Prompt user to enter the name of the DDL
-$ddlName = Read-Host "Enter name of the DDL (use quotes if there are spaces)"
+$ddlName = Read-Host "Enter name of the DDL"
 
 # Check if the ExchangeOnlineManagement module is installed
 if (-not (Get-Module -ListAvailable -Name ExchangeOnlineManagement)) {
